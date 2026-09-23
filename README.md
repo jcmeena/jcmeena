@@ -1,25 +1,39 @@
 ## Hi there 👋
 
-<!--
-**jcmeena/jcmeena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Jagdish Chandra Meena. 
+I have wore many hats in my 17 years careers. 
+- Software Architect
+- Engineering lead
+- Software Consultant
+- Platform Engineer (Current)
 
-Here are some ideas to get you started:
+Most of my career I have worked mainly for Banking domain.
+Majority of remaining career in telecom domain. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-email me on jcmeena@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--  who are you -->
-I am Jagdish Chandra Meena. I am Software Architect. I build applications and environment for applications to run on .
-<!--  what are you working on -->
-I am working on AI , Cloud and Building Banking Application at work.  
-<!--  what tools do you use -->
-I use AWS Cloud, Terraform, Java, Kubernetes, Kafka, Git . 
-<!--  How to reach me -->
-email me on jcmeena@gmail.com
+I have extensive experience in building and solutionizing Java applications.
+My usual tech stack in recent years is following
+- Java
+- Spring Boot
+- Kafka
+- Oracle PL/SQL
+- Swagger
+- REST APIs
+- ORACLE wallet
+- Consul
+- Docker
+- Kubernetes
+
+Currently I am pursuing learning in Cloud and related technologies 
+- AWS 
+- GCP
+- Azure
+- Terraform
+- GenAI
+
+Check out my other projects:
+* [Project Terrform](https://github.com/jcmeena/terraform)
+* [Project Aws](https://github.com/jcmeena/AWS)
+* [Project Kubernetes](https://github.com/jcmeena/kubernetes)
+* [Project Azure](https://github.com/jcmeena/Azure)
+
+Email me on jcmeena@gmail.com
